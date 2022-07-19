@@ -116,4 +116,12 @@ A "one way" process. Someone with a private key signs a transaction by their pri
 
 Anyone can then verify this new transaction hash with your public key.
 
-1:09:16
+## Some Concepts
+
+- Node: A single instance in a decentralized network.
+
+- Anyone can join the network.
+
+- Blockchain are resilient. Are thousands and thousands of nodes running. The blockchain will persist with at least 1 node runing the system.
+
+- Blockchain nodes keep lists of the transactions that occur.
