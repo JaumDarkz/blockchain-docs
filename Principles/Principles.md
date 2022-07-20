@@ -87,7 +87,7 @@ IE:
 
 The more we pay to realize a transaction the more fast the transaction will be realized.
 
-Visit: ETH Gas <a href='https://ethgasstaion.info' target='_blank'>https://ethgasstaion.info<a> to see more details and prices.
+Visit: ETH Gas <a href='https://ethgasstaion.info' target='_blank'>https://ethgasstaion.info</a> to see more details and prices.
 
 ## How Blockchain works in low-level
 
@@ -125,3 +125,26 @@ Anyone can then verify this new transaction hash with your public key.
 - Blockchain are resilient. Are thousands and thousands of nodes running. The blockchain will persist with at least 1 node runing the system.
 
 - Blockchain nodes keep lists of the transactions that occur.
+
+## Consensus
+
+Is the mecanism used to agree on the state of a blockchain
+
+### Consensus Protocol:
+- 1. Chain Selection
+- 2. Sybil Resistance
+
+Eth and BTC are Proof Of Work (at the time od recording) that follow Nakamoto Consensus.
+
+#### Nakamoto Consensus
+
+It's a combination of PoW (Proof of Work) and Longest Chain Rule (The more blocks) more confirmation, and more expensive computation
+
+#### ETH 2.0 will be Proof of Stake
+
+
+## Layer 1
+Base layer blockchain implementation
+
+## Layer 2
+Any application on top of a layer 2
