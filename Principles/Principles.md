@@ -140,11 +140,27 @@ Eth and BTC are Proof Of Work (at the time od recording) that follow Nakamoto Co
 
 It's a combination of PoW (Proof of Work) and Longest Chain Rule (The more blocks) more confirmation, and more expensive computation
 
-#### ETH 2.0 will be Proof of Stake
+#### ETH 2.0 will be Proof of Stake Sharded Blockchain
 
+#### PoW & PoS are sybil resistance mechanisms
+
+#### The bigger the blockchain, the more secure
+
+#### Consensus is how blockchain decide what the state of the chain is
+
+#### Sharding and rollups are scalability solutions to layer 1
 
 ## Layer 1
-Base layer blockchain implementation
+Base layer blockchain implementation.
 
 ## Layer 2
-Any application on top of a layer 2
+Any application on top of a layer 2.
+
+
+#### Only so many transactions can fit into a block (have the power to increase gas price)
+
+#### Gas prices are how much it cost to perform executions on-chain
+
+## Congratulations!
+
+If you've gotten this far, probbably you have in your head at least minimally how a Blockchain works.
